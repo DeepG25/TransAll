@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TransAll</string>
+
+    <string-array name="Languages">
+        <item>Select Language</item>
+        <item>Hindi</item>
+        <item>Gujarati</item>
+        <item>Marathi</item>
+        <item>Tamil</item>
+        <item>Portuguese</item>
+        <item>French</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>Spanish</item>
+        <item>Italian</item>
+    </string-array>
+</resources>

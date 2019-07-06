@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062708483587",
+    "firebase_url": "https://transall-7e38d.firebaseio.com",
+    "project_id": "transall-7e38d",
+    "storage_bucket": "transall-7e38d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062708483587:android:79f81aa82a2e0eb8",
+        "android_client_info": {
+          "package_name": "com.example.transall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062708483587-voqktmtnc6bjhgqcj6q1ajoan7h9t9mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AvzkZUZE0t3HkmIfiXAGDy53n2Guf9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062708483587-voqktmtnc6bjhgqcj6q1ajoan7h9t9mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
